@@ -16,14 +16,6 @@ html {
     line-height: 1.4;
 }
 
-/*
- * Remove text-shadow in selection highlight:
- * https://twitter.com/miketaylr/status/12228805301
- *
- * These selection rule sets have to be separate.
- * Customize the background color to match your design.
- */
-
 ::-moz-selection {
     background: #b3d4fc;
     text-shadow: none;
@@ -91,9 +83,7 @@ textarea {
     padding: 0.2em 0;
 }
 
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
+/* ==========================================================================*/
 
 body {
 	font-size: 48px;
